@@ -1,7 +1,7 @@
 <?php
 /**
  * The template for displaying 404 pages (not found)
- * Testing Dines 2dfgndf.gmd.f,mg.dffkdgl dldkfjgldkf
+ * Testing Dines remote publish 2
  * @package WordPress
  * @subpackage Twenty_Sixteen
  * @since Twenty Sixteen 1.0
